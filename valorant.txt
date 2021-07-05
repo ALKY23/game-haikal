@@ -1,4 +1,7 @@
 jett
+ -dash
+ -updraft
+ -knifes
 omen
 viper
 phoenix
