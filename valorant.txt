@@ -1,4 +1,7 @@
 jett
+ - hothand
+ - run it back
+ - wall
 omen
 viper
 phoenix
