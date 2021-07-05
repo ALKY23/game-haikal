@@ -2,8 +2,12 @@ jett
  -dash
  -updraft
  -knifes
+ - phantom
 omen
 viper
 phoenix
+ - hothand
+ - run it back
+ - wall
 killjoy
 breach
